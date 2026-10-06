@@ -51,7 +51,7 @@ function App() {
           <div className="logo">M</div>
 
           <div>
-            <h1>My Restaurant</h1>
+            <h1>TCC Cafe</h1>
             <p>Digital Menu</p>
           </div>
         </div>
@@ -141,7 +141,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© 2026 My Restaurant • Digital Menu</p>
+        <p>© 2026 TCC Cafe • Digital Menu</p>
       </footer>
 
     </div>
